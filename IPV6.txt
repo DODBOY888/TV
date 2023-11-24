@@ -2,7 +2,7 @@
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5+体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 CCTV-8电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -10,7 +10,7 @@ CCTV-9纪录,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/in
 CCTV-10科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
 CCTV-11戏曲,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV-12社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-13新闻,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+CCTV-13新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-14少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV-15音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-16奥林匹克,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
