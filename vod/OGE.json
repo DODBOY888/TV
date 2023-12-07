@@ -1,7 +1,7 @@
 {
   "wallpaper": "./t/",
   "spider": "./jar.php?id=ou;md5;a8ebb7fcbb953ed4fd63640977374c9e",
-  "warningText": "公众号：天微科技，长期维护，切勿贩卖。",
+  "warningText": "自用接口",
   "lives": [
     {
       "name": "live",
