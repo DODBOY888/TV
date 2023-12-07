@@ -13,12 +13,12 @@
       ]
     }
   ],
-  "warningText": "接口由关注公众号：天微科技，免费提供",
+  "warningText": "自用接口",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐼豆瓣推荐 |关注公众号：天微科技",
+      "name": "🐼豆瓣推荐",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
