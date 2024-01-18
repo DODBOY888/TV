@@ -177,12 +177,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="央视频道",IHOT爱怀旧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="IHOT爱家庭" tvg-name="IHOT爱家庭" tvg-logo="https://live.fanmingming.com/tv/IHOT爱家庭.png" group-title="央视频道",IHOT爱家庭
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="IHOT爱江湖" tvg-name="IHOT爱江湖" tvg-logo="https://live.fanmingming.com/tv/IHOT爱江湖.png" group-title="央视频道",IHOT爱江湖
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="IHOT爱解密" tvg-name="IHOT爱解密" tvg-logo="https://live.fanmingming.com/tv/IHOT爱解密.png" group-title="央视频道",IHOT爱解密
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="央视频道",IHOT爱经典
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="央视频道",IHOT爱科幻
