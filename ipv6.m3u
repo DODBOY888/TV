@@ -123,7 +123,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="江苏移动4K影视" tvg-name="江苏移动4K影视" tvg-logo="https://live.fanmingming.com/tv/江苏移动4K影视.png" group-title="卫视频道",江苏移动4K影视
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="央视频道",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="央视频道",IHOT爱谍战
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
